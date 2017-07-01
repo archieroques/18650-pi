@@ -17,5 +17,6 @@ There is a microUSB port for charging and some indicator LEDs too.
 The board uses a U1V10F5 (AKA TPS6120X) boost converter, and a common TP4056 charger chip - this is what's on most cheap LiPo charger boards. 
 The battery holder used, a Keystone Electronics 1043, has a slot down the middle, intended that the battery sits flat on the board. To save space, some components are placed in this gap, so the cell probably won't sit quite flush. 
 The board is made for single sided SMD assembly, with the battery holder as a through-hole part (easy to solder with just 2 large connections).
+The board was designed in Eagle CAD - the files are for use with this software. I'll add gerbers, etc when the design is done and tested. 
 
 ### *NOTE: This is highly experimental! It ain't quite done, and it certainly hasn't been tested. Use it at your own risk - I am not responsibe for any damage you or it may do!*
